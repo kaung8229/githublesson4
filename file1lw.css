@@ -1,1 +1,7 @@
-this is the new style one
+/* this is the new style one */
+
+h1{
+    color: red;
+    text-align: center;
+}
+
